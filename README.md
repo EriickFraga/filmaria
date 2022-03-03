@@ -1,5 +1,3 @@
-### Rodando o projeto
-
 <h1 align="center">🎥 Projeto Filmaria</h1>
 
 <div align="center">
