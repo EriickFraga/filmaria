@@ -2,7 +2,11 @@
 
 <h1 align="center">🎥 Projeto Filmaria</h1>
 
+<div align="center">
+ 
 ![Animação3](https://user-images.githubusercontent.com/70297966/156482165-364e25f4-d798-49a2-92ef-01576e6c041c.gif)
+ 
+ </div>
 
 <h2 align="center">🛠️ Tecnologias</h2>
 
